@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "24/7 Online",
   "bot-account": {
-    "username": "24I7_bot",
+    "username": "24/7 Online",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "Vi1mas-8mTX.aternos.me",
-    "port": 38902,
+    "ip": "HypixalLifestealsmp.aternos.me",
+    "port": 59065,
     "version": "1.21.1"
   },
   "position": {
